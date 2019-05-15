@@ -1,0 +1,2 @@
+# myAstroNewApp
+Astrology Software
